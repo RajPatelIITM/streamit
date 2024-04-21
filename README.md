@@ -1,2 +1,2 @@
 # streamit
-This is my college mini Project
+College mini Project
